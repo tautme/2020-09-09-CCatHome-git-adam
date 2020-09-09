@@ -1,9 +1,12 @@
 NOTES##########
 1526 working with branches, forking model of collaboration
-  O -> 0 -> 0-> master
-            \
+  O -> 0 -> 0-> master -----> 0 
+            \                /
              0 -> 0 my_branch
   
   branch is in a 'parallel universe' and the work can be protected.
 
 1539 create a new branch and switch(checkout) to that branch
+
+1549 use pull request  to merge my_branch up to master
+  pull request requires you to merge through github
