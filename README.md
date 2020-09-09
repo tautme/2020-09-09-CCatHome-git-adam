@@ -1,8 +1,9 @@
 # 2020-09-09-CCatHome-git-adam
+Carpentry Con at Home Git workshop Part 2
 
 - git clone <url>
-	don't forget to change
-	git init do only one per repo
+ - make sure you are not in another repo
+ - just like git init do only one per repo
 
 - `git branch <branch_name>`: create a new branch where you are (`HEAD`)
 - `git checkout <branch_name>`: move to another branch
