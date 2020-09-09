@@ -1,9 +1,9 @@
- 10 NOTES##########
- 11 1526 working with branches, forking model of collaboration
- 12   O -> 0 -> 0-> master
- 13             \
- 14              0 -> 0 my_branch
- 15   
- 16   branch is in a 'parallel universe' and the work can be protected.
- 17 
- 18 1539 create a new branch and switch(checkout) to that branch
+NOTES##########
+1526 working with branches, forking model of collaboration
+  O -> 0 -> 0-> master
+            \
+             0 -> 0 my_branch
+  
+  branch is in a 'parallel universe' and the work can be protected.
+
+1539 create a new branch and switch(checkout) to that branch
