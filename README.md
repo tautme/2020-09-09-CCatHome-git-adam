@@ -17,3 +17,8 @@ Carpentry Con at Home Git workshop Part 2
 	- the prune will also delete references to branches that were deleted on the remote
 
 - Each pull request si independent
+
+20220808
+during cc at home 2022
+i came back to look at this lesson recorded on yt
+https://www.youtube.com/watch?v=uvWhSYBkZJ0
